@@ -8,7 +8,7 @@ comment
 Multi
 line
 comment
-added anoher line
+added another line
 """
 # print on one line
 print('hello world')
